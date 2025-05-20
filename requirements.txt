@@ -12,3 +12,7 @@ sentence-transformers
 scikit-learn
 python-dotenv
 uuid
+flask-cors
+streamlit-aggrid
+pandas
+flask-cors
