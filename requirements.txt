@@ -1,0 +1,14 @@
+flask
+streamlit
+requests
+pdfplumber
+pytesseract
+Pillow
+langchain
+langchain-community
+langchain-groq
+chromadb
+sentence-transformers
+scikit-learn
+python-dotenv
+uuid
