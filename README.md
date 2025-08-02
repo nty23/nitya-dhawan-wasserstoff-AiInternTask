@@ -1,4 +1,4 @@
-# Wasserstoff
+
 # 🧠 Document Research & Theme Identification Chatbot
 
 An interactive Gen-AI-powered chatbot that enables users to upload 75+ documents (PDFs or scanned images), ask questions in natural language, and receive answers with precise citations and theme-based insights across multiple documents.
